@@ -1,6 +1,14 @@
 # For both Employee ID and Emotion Detection
 #### Both the models need to be trained separately
 
+#### L2 Loss for Employee_ID Detection:<br/>
+![emp_id_detection_loss](https://user-images.githubusercontent.com/13174586/46200442-45661f80-c32f-11e8-886a-4383ef2f1da7.PNG)
+<br/><br/>
+#### L2 Loss for Emotion Detection:<br/>
+![emotion_detection_loss](https://user-images.githubusercontent.com/13174586/46200441-45661f80-c32f-11e8-97da-7a9e6261e208.PNG)
+<br/><br/>
+
+
 #### Reference:<br/>
 [TensorFlow](https://www.tensorflow.org/) <br/>
 [TensorFlow Object Detection Repo](https://github.com/tensorflow/models) <br/>
