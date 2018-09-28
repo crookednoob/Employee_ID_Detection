@@ -1,4 +1,4 @@
-######## Image Object Detection Using Tensorflow-trained Classifier #########
+####### Image Object Detection Using Tensorflow-trained Classifier ########
 #
 # Author: Soumyadip Majumder
 # Date: 27/07/18
